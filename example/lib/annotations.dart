@@ -56,5 +56,7 @@ Position getRandomLocation(double centerLatitude, double centerLongitude,
     heading: 1,
     speed: 1,
     speedAccuracy: 1,
+    altitudeAccuracy: 1,
+    headingAccuracy: 1,
   );
 }
